@@ -1,0 +1,10 @@
+body {
+  font-family: 'Sofia', cursive;
+}
+#display {
+  height: 60px;
+}
+button {
+  height: 60px;
+  font-size: 1.25rem;
+}
